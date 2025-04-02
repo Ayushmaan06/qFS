@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="qFS",
-    version="0.0.1",
+    version="0.0.2",
     description="A Python package for Quantum Feature Selection (qFS).",
     author="Ayushmaan Singh",
     packages=find_packages(),
