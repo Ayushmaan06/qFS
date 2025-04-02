@@ -164,7 +164,7 @@ class qFS:
 
 
 """
-qFS# - Fast Correlation Based Filter 
+qFS# - 
 B. Senliol, G. Gulgezen, et al. Fast Correlation Based Filter (qFS) with a Different Search Strategy. 
 In Computer and Information Sciences (ISCIS ‘08) 23rd International Symposium on, pages 1‐4. 
 Istanbul, October 27‐29, 2008.
